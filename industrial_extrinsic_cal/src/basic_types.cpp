@@ -17,6 +17,7 @@
  */
 #include <stdio.h>
 #include <industrial_extrinsic_cal/basic_types.h>
+#include <string>
 
 namespace industrial_extrinsic_cal
 {
